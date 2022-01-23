@@ -1,16 +1,14 @@
 ## social-pairs
-##### an idea for a trading system that uses pair trades
-##### to reduce market risk and uses social media data to 
-##### discover pair trades.
+an idea for a trading system that uses pair trades to reduce market risk anduses social media data to discover pair trades.
 
-##### strategy: 
+#### strategy: 
 - track social performance (volume, engagement, dominance, sentiment)
 - rank assets based on metrics (or an aggregate of metrics)
 - long asset with superior social performance
 - short asset with inferior social performance
 - switch assets on a 'cross' in social performance
 
-##### example:
+#### example:
 - asset X & Y are comparable or substitute assets.
 - asset X has outpeformed asset Y in price and social performance 
   for some time. 
