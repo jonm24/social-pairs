@@ -1,5 +1,6 @@
 ## social-pairs
-an idea for a trading system that uses pair trades to reduce market risk anduses social media data to discover pair trades.
+an idea for a trading system that uses pair trades to reduce market risk 
+and uses social media data to discover pair trades.
 
 #### strategy: 
 - track social performance (volume, engagement, dominance, sentiment)
